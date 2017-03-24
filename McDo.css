@@ -1,0 +1,23 @@
+body {
+  background-color: #333333
+}
+
+#container {
+  background-color: #FFD700;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#header {
+  background-color: #EE2C2C;
+  color: #BEBEBE;
+  text-align: center;
+  font-size: 150%;
+  border: 20px solid white;
+}
+
+#contents {
+    padding: 100px 40px 100px 40px;
+    border: 7px solid brown
+}
