@@ -14,10 +14,14 @@ body {
   color: #BEBEBE;
   text-align: center;
   font-size: 150%;
-  border: 20px solid white;
+  border: 10px solid white;
 }
 
 #contents {
-    padding: 100px 40px 100px 40px;
-    border: 7px solid brown
+    padding: 70px 40px 70px 40px;
+    border: 9px solid green;
+}
+
+#footer {
+    border: 8px solid red;
 }
