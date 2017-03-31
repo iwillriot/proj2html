@@ -1,9 +1,8 @@
 body {
-  background-color: #333333
+  background-color: yellow
 }
 
 #container {
-  background-color: #FFD700;
   width: 1200px;
   margin-left: auto;
   margin-right: auto;
@@ -14,12 +13,16 @@ body {
   color: #BEBEBE;
   text-align: center;
   font-size: 150%;
-  border: 10px solid white;
+  border: 7px solid white;
+}
+
+#options {
+  text-align: right;
 }
 
 #contents {
     padding: 70px 40px 70px 40px;
-    border: 9px solid green;
+    border: 7px solid green;
 }
 
 #footer {
